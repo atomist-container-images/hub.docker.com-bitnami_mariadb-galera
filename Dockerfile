@@ -514,12 +514,3 @@ FROM bitnami/mariadb-galera:10.5.15-debian-10-r8
 
 # Tags: 10.4.24-debian-10-r9
 FROM bitnami/mariadb-galera:10.4.24-debian-10-r9
-
-# Tags: 10.2.43-debian-10-r14
-FROM bitnami/mariadb-galera:10.2.43-debian-10-r14
-
-# Tags: 10.3.34-debian-10-r15
-FROM bitnami/mariadb-galera:10.3.34-debian-10-r15
-
-# Tags: 10.6.7-debian-10-r8
-FROM bitnami/mariadb-galera:10.6.7-debian-10-r8
